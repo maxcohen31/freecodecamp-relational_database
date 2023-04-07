@@ -1,2 +1,2 @@
 # freecodecamp-relational_database
-Relation Database exercise from freeCodeCamp
+Relation Database exercises from freeCodeCamp
